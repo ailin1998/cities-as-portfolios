@@ -8,4 +8,4 @@ This version records the paper's core framework and preliminary empirical implem
 
 The draft remains under active revision. Future versions may differ substantially in structure, empirical design, interpretation, and presentation.
 
-Code and replication files are not included in this release.
+Appendix, code and replication files are not included in this release.
