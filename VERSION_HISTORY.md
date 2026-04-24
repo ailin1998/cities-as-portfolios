@@ -2,13 +2,10 @@
 
 ## v0.1-public-draft — April 24, 2026
 
-First public release of the working paper **"Cities as Portfolios"** by Ailin Zhang.
+Initial timestamped public draft of the working paper **"Cities as Portfolios"** by Ailin Zhang.
 
-This version includes:
-- the core portfolio framing of cities as portfolios of industries;
-- the empirical urban growth-risk frontier;
-- the decomposition of wage growth and wage-growth volatility;
-- the PNTR shock application;
-- preliminary mechanism evidence on skill portability and establishment structure.
+This version records the paper's core framework and preliminary empirical implementation as of April 24, 2026. The paper studies cities through a portfolio lens, linking urban wage growth and wage-growth risk to industrial composition, local industry performance, and worker reallocation across sectors.
+
+The draft remains under active revision. Future versions may differ substantially in structure, empirical design, interpretation, and presentation.
 
 Code and replication files are not included in this release.
